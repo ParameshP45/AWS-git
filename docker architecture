@@ -1,0 +1,3 @@
+Docker client (CteLI)
+Docker server ( API, Daemon)
+Rehistry (docer.io,AWS/ jfrog / any other private artifactory)
