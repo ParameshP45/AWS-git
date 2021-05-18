@@ -1,0 +1,11 @@
+Master
+kubernets API
+scheduler
+controller
+etcd
+
+Nodes:
+kubelet 
+Regsistery
+proxy
+pods
